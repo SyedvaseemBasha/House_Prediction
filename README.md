@@ -176,7 +176,8 @@ Open the provided URL to access the web interface, input house features, and vie
 - **Code Quality & Reproducibility:**  
   All code is well-commented, ensuring clarity for future maintenance and reproducibility.
 
-Feel free to contribute, raise issues, or suggest improvements. Happy coding!
+
+
 
 
 
