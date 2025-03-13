@@ -1,0 +1,11 @@
+flask
+numpy
+pandas
+scikit-learn
+gunicorn  
+fastapi
+uvicorn
+loguru
+mlflow
+docker
+catboost

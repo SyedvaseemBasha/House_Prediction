@@ -1,0 +1,15 @@
+artifact_uri: file:///p:/ML_PROJECTS/House_prediction/mlruns/269094687099912107/53be8a67f18b4c5baa9c8714133e593b/artifacts
+end_time: 1741830446193
+entry_point_name: ''
+experiment_id: '269094687099912107'
+lifecycle_stage: active
+run_id: 53be8a67f18b4c5baa9c8714133e593b
+run_name: masked-crane-154
+run_uuid: 53be8a67f18b4c5baa9c8714133e593b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830441579
+status: 3
+tags: []
+user_id: '91939'

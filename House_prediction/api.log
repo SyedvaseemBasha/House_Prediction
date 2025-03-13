@@ -1,0 +1,33 @@
+2025-03-13 08:50:41,033 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-13 08:50:41,033 - INFO - NumExpr defaulting to 8 threads.
+2025-03-13 08:50:44,346 - WARNING -  * Debugger is active!
+2025-03-13 08:50:44,358 - INFO -  * Debugger PIN: 111-511-986
+2025-03-13 08:55:48,315 - INFO -  * Detected change in 'P:\\ML_PROJECTS\\House_prediction\\app.py', reloading
+2025-03-13 08:55:48,317 - INFO -  * Detected change in 'P:\\ML_PROJECTS\\House_prediction\\app.py', reloading
+2025-03-13 08:55:54,623 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-13 08:55:54,623 - INFO - NumExpr defaulting to 8 threads.
+2025-03-13 08:55:58,105 - WARNING -  * Debugger is active!
+2025-03-13 08:55:58,116 - INFO -  * Debugger PIN: 111-511-986
+2025-03-13 08:55:58,191 - INFO - Input Data: [   8.3252     41.          6.984127    1.02381   322.          2.555556
+   37.88     -122.23    ]
+2025-03-13 08:55:58,198 - INFO -  * Detected change in 'C:\\Users\\91939\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2025-03-13 08:55:58,277 - INFO - Prediction: 4.1014543431266945
+2025-03-13 08:55:58,279 - INFO - 127.0.0.1 - - [13/Mar/2025 08:55:58] "POST /predict HTTP/1.1" 200 -
+2025-03-13 08:56:03,906 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-13 08:56:03,906 - INFO - NumExpr defaulting to 8 threads.
+2025-03-13 08:56:06,673 - WARNING -  * Debugger is active!
+2025-03-13 08:56:06,682 - INFO -  * Debugger PIN: 111-511-986
+2025-03-13 09:10:57,253 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-13 09:10:57,254 - INFO - NumExpr defaulting to 8 threads.
+2025-03-13 09:11:00,203 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-13 09:11:00,203 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-13 09:11:00,247 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-13 09:11:03,490 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-13 09:11:03,491 - INFO - NumExpr defaulting to 8 threads.
+2025-03-13 09:11:06,043 - WARNING -  * Debugger is active!
+2025-03-13 09:11:06,054 - INFO -  * Debugger PIN: 111-511-986
+2025-03-13 09:11:49,265 - INFO - Input Data: [   8.3252     45.          6.984127    1.02381   322.          2.555556
+   37.88     -122.23    ]
+2025-03-13 09:11:49,406 - INFO - Prediction: 4.161476223070206
+2025-03-13 09:11:49,411 - INFO - 127.0.0.1 - - [13/Mar/2025 09:11:49] "POST /predict HTTP/1.1" 200 -

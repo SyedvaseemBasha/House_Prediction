@@ -1,0 +1,15 @@
+artifact_uri: file:///p:/ML_PROJECTS/House_prediction/mlruns/269094687099912107/774747cfe9204c7a9724f67d4646fad9/artifacts
+end_time: 1741830332514
+entry_point_name: ''
+experiment_id: '269094687099912107'
+lifecycle_stage: active
+run_id: 774747cfe9204c7a9724f67d4646fad9
+run_name: rebellious-snail-259
+run_uuid: 774747cfe9204c7a9724f67d4646fad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830332379
+status: 4
+tags: []
+user_id: '91939'
