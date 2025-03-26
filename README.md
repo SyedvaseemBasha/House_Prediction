@@ -119,24 +119,28 @@ This project is a machine learning application designed to predict house prices 
 
 ## Running the API Locally
 
-1. **Using Flask:**
-   ```bash
-   python app.py
-   ```
-   Your API will be accessible at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+1. **Running locally**
 
-2. **Using Docker:**
-   - **Build the Docker Image:**
-     ```bash
-     docker build -t house-price-api .
-     ```
-   - **Run the Container:**
-     ```bash
-     docker run -p 5000:5000 house-price-api
-     ```
-   The Flask app will run inside a container and be accessible at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+   - We have two ways :
+      
+      1. **Using Flask:**
+         ```bash
+         python app.py
+         ```
+         Your API will be accessible at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+      
+      2. **Using Docker:**
+         - **Build the Docker Image:**
+           ```bash
+           docker build -t house-price-api .
+           ```
+         - **Run the Container:**
+           ```bash
+           docker run -p 5000:5000 house-price-api
+           ```
+         The Flask app will run inside a container and be accessible at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-3. **Testing the API via Postman:**
+2. **Testing the API via Postman:**
    - Set the method to **POST**.
    - URL: `http://127.0.0.1:5000/predict`
    - Body (raw JSON):
