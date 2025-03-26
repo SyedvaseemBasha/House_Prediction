@@ -166,6 +166,12 @@ Open the provided URL to access the web interface, input house features, and vie
 
 ---
 
+## Project Video Demo
+
+https://github.com/user-attachments/assets/8d122b7d-f73e-4876-a5eb-a374174eb9cd
+
+
+---------
 ## Final Notes
 
 - **Model Versioning & Experiment Tracking:**  
